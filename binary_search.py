@@ -204,3 +204,4 @@ class BinarySearch(list):
 
         return object_location
 
+
